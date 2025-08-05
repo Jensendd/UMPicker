@@ -1,0 +1,20 @@
+{
+  "model": "UMPicker",
+  "data": "STEAD",
+  "trainer_args": {
+    "accelerator": "gpu",
+    "devices": [
+      0
+    ],
+    "max_epochs": 100
+  },
+  "model_args": {
+    "sample_boundaries": [
+      -1500,
+      null
+    ],
+    "lr": 0.001
+  },
+  "num_workers": 12,
+  "batch_size": 256
+}
