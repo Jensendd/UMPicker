@@ -21,7 +21,8 @@ pip install -r requirements.txt
 ```
 ### 4. Installation of mamba-ssm
 For detailed installation steps of mamba-ssm, please refer to the instructions of https://github.com/state-spaces/mamba and install version 2.2.2 of mamba-ssm to meet the requirements of this environment.
-
+## License
+This project is licensed under the GNU General Public License v3.0.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or pull request.
 
